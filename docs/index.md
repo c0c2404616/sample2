@@ -77,3 +77,12 @@ Duplicated footnote reference[^second].
 [^first]: Footnote **can have markup**
  and multiple paragraphs.
 [^second]: Footnote text.
+
+## Images
+![Minion](https://octodex.github.com/images/minion.png)
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+
+## Youtube Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/suf2ACf9MWY"
+title="#11 ナフサ不足の影響でウルトが白黒になってしまうキャラ【DIO ペア戦】おうちMark.2のラスサバゆっくり実況" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
